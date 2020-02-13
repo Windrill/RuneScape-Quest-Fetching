@@ -1,8 +1,5 @@
 # RuneScape-Quest-Fetching
-This project fetches quest transcripts from the RuneScape wikia, and saves them in word documents.
-
-If you want to read through some of the most interesting and humorous dialogues in RPG gaming history, this is the place to look for.
-
+Fetches quests from the RuneScape wikia for some of the best adventuring in RPG history.
 ---
 <b>Player:</b>
 
